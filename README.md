@@ -1,8 +1,8 @@
 # One-Line Office Joke
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
-[![make.fun entry](https://img.shields.io/badge/make.fun-entry-green)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
-[![itslanaa](https://img.shields.io/badge/itslanaa-make.fun-orange)](https://github.com/itslanaa/one-line-office-joke-pucuys)
+[![make.fun · u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
+[![rank](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/itslanaa/one-line-office-joke-pucuys/rank.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
+[![reward](https://make.fun/badge/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162/itslanaa/one-line-office-joke-pucuys/reward.svg)](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162)
 
 One-line office joke entry on [make.fun](https://make.fun/bounty/u-pucuys-one-line-office-joke-24-hour-sprint-aaf86162).
 
@@ -20,3 +20,5 @@ Run it locally:
 MAKEFUN_OUTPUT_DIR=/tmp/pucuys-office-out node main.ts
 cat /tmp/pucuys-office-out/entry.txt
 ```
+
+Referral code: 6qjs4159
